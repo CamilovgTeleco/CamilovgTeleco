@@ -29,7 +29,4 @@
 <a  href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="100"/></a>
 </p>
-<p align="center">
-<a  href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="PowerBI" width="80" height="80"/></a>
-</p>
 
