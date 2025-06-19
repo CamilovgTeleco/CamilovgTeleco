@@ -44,7 +44,19 @@
 <a href="https://fastapi.tiangolo.com/" title="FastAPI" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
 <a href="https://pydantic.dev/" title="Pydantic" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CamilovgTeleco/CamilovgTeleco/refs/heads/main/images/Pydantic-logo.svg" alt="Pydantic" width="50" height="50"/></a>
 <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50"/></a>
+<a href="https://www.scrapy.org/" title="Scrapy" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CamilovgTeleco/CamilovgTeleco/refs/heads/main/images/Scrapy.svg" alt="Scrapy" width="50" height="50"/></a>
 </p>
+<h3 align="center">Tools</h3>
+<p align="center"> 
+<a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+<a href="https://git-scm.com/" title="GitHub" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
+<a href="https://www.postman.com/" title="Postman" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/></a>
+<a href="https://jupyter.org/" title="Jupyter Notebooks" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebooks" width="50" height="50"/></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50"/></a>
+
+</p>
+
+
 
 
 
