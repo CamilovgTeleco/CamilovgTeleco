@@ -29,4 +29,22 @@
 <a  href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="100"/></a>
 </p>
+<h3 align="center">Deep Learning</h3>
+<p align="center"> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="50" height="50"/></a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="50"/>
+</p>
+<h3 align="center">Cloud Services</h3>
+<p align="center"> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
+</p>
+<h3 align="center">API and Backend Development</h3>
+<p align="center"> 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
+</p>
+
+
+
+
 
