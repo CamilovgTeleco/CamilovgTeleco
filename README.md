@@ -3,7 +3,12 @@
 <em> I'm a telecom engineer </em> 📡 <em>transitioning into data science and AI </em>🤖, <em>passionate about transforming real-world challenges into intelligent, data-driven systems</em>🧮. <em>My background includes backend development, QA, and monitoring solutions across cloud and on-prem environments, with hands-on contributions to enterprise-scale projects for clients like Claro-Ecuador </em>💻. <em>I'm currently focused on building machine learning models to support decision-making, automate processes, enhance customer experience, and extract insights from structured/unstructured data </em>📊. 
 📖 <em>I'm also deepening my understanding of AI services through the AWS AI Practitioner certification path—exploring tools like SageMaker </em>🧠<em>, Bedrock </em>🪨<em>, Q </em>❓<em>, and Lex <em>/💬<em>—to design and deploy scalable, cloud-native AI solutions </em>☁️<em>. I believe in using data and intelligent systems to drive impact with purpose and precision.</em>🌟
 
-<h2 align="left">Languages and Tools:</h2>
+## Projects 📚
+
+- [Medical Expenses 🩹](https://github.com/CamilovgTeleco/MedicalExpenses) 
+- [To Do List API 🗒️](https://github.com/CamilovgTeleco/ToDoListAPI) 
+
+## Languages and Tools🪛:
 <h3 align="center">Programming languages</h3>
 <p align="center"> 
 <a href="https://www.python.org/" title="Python" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="html5" width="50" height="50"/></a>
@@ -53,7 +58,6 @@
 <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/></a>
 <a href="https://jupyter.org/" title="Jupyter Notebooks" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebooks" width="50" height="50"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50"/></a>
-
 </p>
 
 
