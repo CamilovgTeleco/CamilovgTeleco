@@ -5,6 +5,7 @@
 
 ## Projects 📚
 
+- [Customer Churn Prediction 🔍](https://github.com/CamilovgTeleco/Customer_Churn_Prediction)
 - [Medical Expenses 🩹](https://github.com/CamilovgTeleco/MedicalExpenses) 
 - [To Do List API 🗒️](https://github.com/CamilovgTeleco/ToDoListAPI) 
 
@@ -30,9 +31,9 @@
 <a  href="https://scikit-learn.org/stable/index.html" title="Scikit-Learn" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="100" height="100"/></a>
 </p>
 <p align="center">
-<a  href="https://matplotlib.org/" title="Matplotlib" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain-wordmark.svg" alt="Matplotlib" width="100" height="100"/></a>
 <a  href="https://seaborn.pydata.org/" title="Seaborn" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="100"/></a>
+<a  href="https://matplotlib.org/" title="Matplotlib" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain-wordmark.svg" alt="Matplotlib" width="100" height="100"/></a>
 </p>
 <h3 align="center">Deep Learning</h3>
 <p align="center"> 
